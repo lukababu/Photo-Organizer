@@ -1,0 +1,22 @@
+tasks:
+  # Photos to be showcased
+  - source: "C:\\Users\\l_ire\\Desktop\\photos"
+    destination: "C:\\Users\\l_ire\\Desktop\\photos\\Named"
+    flag: "s"
+    extension:
+      - "jpg"
+      - "jpeg"
+  # RAW Photos
+  - source: "C:\\Users\\l_ire\\Desktop\\photos"
+    destination: "C:\\Users\\l_ire\\Desktop\\photos\\Named"
+    flag: "r"
+    extension:
+      - "RAW"
+      - "ARW"
+  # Photo Editing Files
+  - source: "C:\\Users\\l_ire\\Desktop\\photos"
+    destination: "C:\\Users\\l_ire\\Desktop\\photos\\Named"
+    flag: "e"
+    extension:
+      - "afphoto"
+      - "psd"

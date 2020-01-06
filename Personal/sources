@@ -1,0 +1,24 @@
+Guava:
+    https://github.com/google/guava/releases
+Meta-data extractor:
+    https://github.com/drewnoakes/metadata-extractor
+    https://drewnoakes.com/code/exif/
+    Apache 2.0
+    https://www.javatips.net/api/deepnighttwo-master/file-renamer/src/main/java/com/deepnighttwo/ExifUtils.java
+
+Dealing with localDateTime:
+    https://www.java67.com/2016/03/how-to-convert-date-to-localdatetime-in-java8-example.html
+
+Apache.commons:
+    file filter example: https://www.javatips.net/api/org.apache.commons.io.filefilter.directoryfilefilter
+    documentation: http://commons.apache.org/proper/commons-io/javadocs/api-release/index.html
+
+Moving/Renaming Files:
+    https://www.baeldung.com/java-how-to-rename-or-move-a-file
+    https://stackoverflow.com/questions/4645242/how-do-i-move-a-file-from-one-location-to-another-in-java
+
+Ignoring files:
+    https://support.plex.tv/articles/201381883-special-keyword-file-folder-exclusion/
+
+Check duplicate files:
+    https://stackoverflow.com/questions/40038729/check-duplicate-file-content-using-java

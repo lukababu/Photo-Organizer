@@ -1,0 +1,14 @@
+TODO
+Separate flags into individual methods
++ Create global flag variable to avoid magic number
+If no jpeg exists for a given RAW generate a low res image?
+    -Specify quality in the config
+Create a file that follows PLEX standard for ignoring certain folders
+Implement unit tests
+Implement logging
+Detect identical files
+See if file.getName() returns the file with the extension and no directory, if so use it to optimize
+Custom defined flags?
+
+Publish to git with apache 2.0
+- Automatically organize your photo folder according to Plex standard with incorporating file formats from RAW, PSD, afphoto...
